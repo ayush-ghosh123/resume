@@ -1,0 +1,107 @@
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Large \scshape Ayush Ghosh} \\[2mm]
+    \footnotesize 
+    \faPhone\ \underline{443-917-8321} ~
+    {\faEnvelope\  \underline{ayushrghosh@berkeley.edu}} ~ 
+    {\faLinkedin\ \underline{\href{https://www.linkedin.com/in/ayush-ghosh-085367303/}{linkedin.com/in/ayush-ghosh}} ~
+    {\faGithub\ \underline{\href{https://ayush-ghosh123.github.io/ayushghosh.github.io/}{Portfolio}}}
+    \vspace{-8pt}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education} \\[1mm]
+\resumeSubHeadingListStart
+\resumeSubheading
+{University of California, Berkeley}{Expected May 2028}
+{B.S. Mechanical Engineering | GPA: 3.90}{Berkeley, CA}
+\resumeSubHeadingListEnd
+
+\resumeItemListStart
+\resumeItem{Relevant Coursework: Three-Dimensional Modeling and Design, Computer-Integrated Manufacturing, Engineering Design and Development, Computer Programming and Numerical Methods, Advanced Topics in Computer Science, Multivariable Calculus, Linear Algebra and Differential Equations, Statistics, General Chemistry, Mechanics, Electricity and Magnetism}
+\resumeItemListEnd
+
+\vspace{-12pt}
+
+%-----------Experience---------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Senrab Co LLC}{2025 -- Present}
+{Mechanical Engineering Intern}{San Francisco, CA}
+\resumeItemListStart
+\resumeItem{Perform physics-based calculations in \textbf{MATLAB} to evaluate feasibility, kinematics, and power requirements for a conceptual high-acceleration transportation system}
+\resumeItem{Build \textbf{3D system visualizations in SolidWorks} representing architecture, staging behavior, and payload dynamics under operational constraints}
+\resumeItem{Investigate preliminary \textbf{autonomous control concepts} for stability and coordination in high-acceleration multi-component systems}
+\resumeItemListEnd
+
+\resumeSubheading
+{Formula Electric, UC Berkeley}{2026 -- Present}
+{Accumulator Mechanical Engineer}{Berkeley, CA}
+\resumeItemListStart
+\resumeItem{Design the \textbf{Accumulator Tractive System Container (ATSC)} architecture in \textbf{SolidWorks} for a Formula Electric racecar}
+\resumeItem{Fabricate high-current electrical hardware including \textbf{custom copper busbars} and sheet-metal components using laser cutting and air bending}
+\resumeItem{Develop an \textbf{Arduino-based instrumentation system} to measure busbar temperature rise under operational loads and analyze thermal data}
+\resumeItemListEnd
+
+\resumeSubheading
+{Computational Mechanics Research Group, UMBC}{2024 -- 2025}
+{Lab Assistant / Intern}{Baltimore, MD}
+\resumeItemListStart
+\resumeItem{Developed a \textbf{convolutional neural network (CNN)} to predict full-field displacement maps from paired synthetic speckle images, reducing computation time by \textbf{~98\% (6 hours → 6 minutes)}}
+\resumeItem{Generated and curated \textbf{10,000+ synthetic speckle image pairs} with prescribed displacement fields using \textbf{MATLAB}}
+\resumeItem{Investigated machine learning approaches for \textbf{digital image correlation (DIC)} and convolutional finite element (C-FE) methods}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\vspace{-12pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+{\textbf{Sodium Bicarbonate Dispenser}}{Raspberry Pi $|$ Python}
+\resumeItemListStart
+\resumeItem{Prototyped an automated dosing system to maintain stable pH in aquatic tanks through controlled sodium bicarbonate injection}
+\resumeItem{Built embedded hardware with \textbf{Raspberry Pi}, manual control switch, LED status indicators, and a \textbf{12V DC pump interface}}
+\resumeItem{Wrote \textbf{Python control software} to manage pump timing and system state monitoring}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Solar-Powered Portable Phone Charger}}{Onshape $|$ FEA $|$ 3D Printing}
+\resumeItemListStart
+\resumeItem{Designed a foldable solar-powered phone charging system balancing portability and structural durability}
+\resumeItem{Created a fully \textbf{parametric CAD enclosure in Onshape} and performed \textbf{finite element analysis} on hinge reliability}
+\resumeItem{Integrated \textbf{10 photovoltaic panels} producing ~6W under direct sunlight and implemented voltage regulation electronics}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\vspace{-15pt}
+
+%-----------HONORS-----------
+\section{Honors \& Awards}
+\resumeItemListStart
+\resumeItem{U.S. Presidential Scholar Candidate – Top 0.1\% of U.S. seniors nationally}
+\resumeItem{ACTE National CAD Trophy Design Winner – 1st place out of 400+ entries}
+\resumeItem{Morgan State Science and Engineering Fair – 2nd place out of 150+ projects}
+\resumeItem{National Merit Finalist – Top 1\% nationally}
+\resumeItem{Maryland Merit Scholastic Award – Top 5\% of Maryland graduates}
+\resumeItemListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+\small{\item{
+\textbf{Technical:} MATLAB, Python, SolidWorks, AutoCAD, Fusion 360, Onshape, Blender \\
+\textbf{Programming:} Python, Java, HTML \\
+\textbf{Languages:} English (Native), Bengali (Speaking), Spanish (Novice)
+}}
+\end{itemize}
+
+\end{document}
